@@ -1,0 +1,26 @@
+{
+  "developerEnterprises":[
+    {
+      "name": "CECSO",
+      "rfc":"CCS810209RH5",
+      "address":"Pesqueira 902 Sur",
+      "contact": "Alberto Felix"
+    },
+    {
+      "name": "CIIPDETEC",
+      "rfc":"CIE130910JA1",
+      "address":"Bravo",
+      "contact": "Beatriz Urquidi"
+      
+    }
+
+  ],
+  "developers":[
+    {
+      "name": "CECSO",
+      "rfc":"CCS810209RH5",
+      "address":"Pesqueira 902 Sur",
+      "contact": "Alberto Felix"
+    }
+  ]
+}
